@@ -1,6 +1,7 @@
-import { foodItem } from "./types";
-
-export const Items: foodItem[] = [
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Items = void 0;
+exports.Items = [
     {
         id: 1,
         name: "Margherita Pizza",
